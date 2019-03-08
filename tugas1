@@ -1,0 +1,7 @@
+public class BDiki {
+  public static void main(String arg[]){
+    System.out.println(" Nama   : Diki Priyanto ");
+    System.out.println(" NIM    : 17090110 ");
+    System.out.println(" Kelas  : 4B ");
+  }
+}
